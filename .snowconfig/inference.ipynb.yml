@@ -1,0 +1,5 @@
+location:
+  database: ML_LAB
+  schema: DATA
+  name: NOTEBOOK_PROJECT_E341A9AC
+role: ACCOUNTADMIN
